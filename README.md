@@ -33,11 +33,22 @@ Sample Sales dataset from Kaggle (https://www.kaggle.com/datasets/kyanyoga/sampl
 #### 8.	Which territories and countries generate the most sales
 
 ## Dashboards
-The Power BI Dashboard was structured into four pages to provide comprehensive insights
-#### 1.	Overview: provide an overall snapshot of sales performance, trends and key metrics.
-#### 2.	Customer: analyze customer behavior, segments and purchasing patterns. 
-#### 3.	Product: assess product performance.
-#### 4.	Location: visualize regional sales distribution. 
+#### The Power BI Dashboard was structured into four pages to provide comprehensive insights
+### 1.	Overview: provide an overall snapshot of sales performance, trends and key metrics.
+
+![Overview](https://github.com/user-attachments/assets/c4a5c003-98a0-45e3-922c-836abac42151)
+
+### 2.	Customer: analyze customer behavior, segments and purchasing patterns. 
+
+![Customer](https://github.com/user-attachments/assets/fc8489e1-23cb-4383-b433-b4b8ae731dce)
+
+### 3.	Product: assess product performance.
+
+![Product](https://github.com/user-attachments/assets/348d7a60-dcdf-42f6-a564-124108f72efb)
+
+### 4.	Location: visualize regional sales distribution. 
+
+![Location](https://github.com/user-attachments/assets/35672065-f823-4d22-831d-822eed8f840f)
 
 ## Insights
 ##### 1.	Total Sales Trend: the total sales have shown a consistent increase from 2003 to 2005, with the highest sales recorded in 2004, and the month with the highest sales is November. And the quarter with the highest sales is 4.
